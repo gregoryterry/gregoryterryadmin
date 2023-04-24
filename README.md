@@ -1,5 +1,5 @@
 # gregoryterryadmin
-project experience
+Project experience
 <h1>Hi, I'm Gregory, an <a href="https://linkedin.com/in/Greg">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
