@@ -12,7 +12,7 @@ Project experience
   - [Deploy and Configure Active Directory In The Cloud wirh Azure VMs](https://github.com/gregoryterry/Deploy-Active-Directory-In-The-Cloud-wirh-Azure)
   - [Configure DNS for Active Directory](https://github.com/gregoryterry/Configure-DNS-for-Active-Directory)
   - [Create-New-Users-with-PowerShell-Log-into-the-domain](https://github.com/gregoryterry/Create-New-Users-with-PowerShell---Log-into-the-domain)
-  - [Analizing Traffic Between Azure Virtual Machines with WireShark](https://github.com/gregoryterry/azure-network-protocols)
+  - [Analizing Traffic Between Azure Virtual Machines with WireShark](https://github.com/gregoryterry/Network-Security-Groups-NSG-And-Analizing-Traffice-Between-Azure-Virtual-Machines-with-WireShark)
   - 
 <h2>🤳Connect with me:</h2>
 
