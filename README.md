@@ -10,7 +10,7 @@ Project experience
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gregoryterry/Tickets-and-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Deploy and Configure Active Directory In The Cloud wirh Azure VMs](https://github.com/gregoryterry/Deploy-Active-Directory-In-The-Cloud-wirh-Azure)
-  - [Configure DNS for Active Directory]( )
+  - [Configure DNS for Active Directory](https://github.com/gregoryterry/Configure-DNS-for-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gregoryterry/azure-network-protocols)
   - 
 <h2>🤳Connect with me:</h2>
