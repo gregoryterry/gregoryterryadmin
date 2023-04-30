@@ -7,7 +7,7 @@ Project experience
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gregoryterry/osTicket-Installation-Prerequsites)
   - [osTicket: Post-Installation Configuration](https://github.com/gregoryterry/osTicket-Post-Installation-Setup)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/gregoryterry/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/gregoryterry/Tickets-and-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gregoryterry/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gregoryterry/azure-network-protocols)
