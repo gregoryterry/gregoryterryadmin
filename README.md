@@ -9,7 +9,7 @@ Project experience
   - [osTicket: Post-Installation Configuration](https://github.com/gregoryterry/osTicket-Post-Installation-Setup)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gregoryterry/Tickets-and-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gregoryterry/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gregoryterry/Deploy-Active-Directory-In-The-Cloud-wirh-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gregoryterry/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
