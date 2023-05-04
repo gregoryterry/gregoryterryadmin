@@ -13,7 +13,7 @@ Project experience
   - [Configure DNS for Active Directory](https://github.com/gregoryterry/Configure-DNS-for-Active-Directory)
   - [Create-New-Users-with-PowerShell-Log-into-the-domain](https://github.com/gregoryterry/Create-New-Users-with-PowerShell---Log-into-the-domain)
   - [Analizing Traffic Between Azure Virtual Machines with WireShark](https://github.com/gregoryterry/Network-Security-Groups-NSG-And-Analizing-Traffice-Between-Azure-Virtual-Machines-with-WireShark)
-  - 
+   
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Greg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
