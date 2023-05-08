@@ -17,6 +17,6 @@ Project experience
   
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Greg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Greg | LinkedIn" width="22px" src="https://www.linkedin.com/in/gregory-terry-1844451b5/" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/Greg
